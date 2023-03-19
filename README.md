@@ -8,7 +8,7 @@ Map functionalities:
 - Fullscreen
 - Change map type
 
-Website is interactive due to usage of Leaflet Javascript library.
+Website is interactive due to the usage of Leaflet Javascript library.
 To display the website, please open index.html file in the internet browser.
 
 
