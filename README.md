@@ -9,7 +9,7 @@ Map functionalities:
 - Change map type
 
 Website is interactive due to usage of Leaflet Javascript library.
-
+To display the website, please open index.html file in the internet browser.
 
 
 
