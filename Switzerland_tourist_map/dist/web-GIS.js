@@ -16,5 +16,5 @@ L.Control.geocoder().addTo(map);
 
 //zoom to layer
 $('.zoom-to-layer').click(function () {
-    map.setView([38.8610, 71.2761], 7)
+    map.setView([46.890607, 8.445812], 8)
 })
